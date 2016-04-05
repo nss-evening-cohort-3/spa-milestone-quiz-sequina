@@ -1,0 +1,41 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "color": "FireBrick",
+      "purchased": false,
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    }
+  ]
+}
+
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Cube",
+      "year": "2011",
+      "price": "9000",
+      "color": "Teal",
+      "purchased": false,
+      "description": "This is an immaculate 2011 Nissan Cube with only 65000 miles on it. Leather seats, power everything."
+    }
+  ]
+}
+
+{
+  "cars": [
+    {
+      "make": "Ford",
+      "model": "Explorer",
+      "year": "2009",
+      "price": "10000",
+      "color": "Green",
+      "purchased": false,
+      "description": "This is an immaculate 2009 Ford Explorer with only 70000 miles on it. Leather seats, power everything."
+    }
+  ]
+}
